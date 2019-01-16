@@ -1,7 +1,0 @@
-Le champ de mines est représenté par une grille, qui peut avoir différentes formes : deux ou trois dimensions, pavage rectangulaire ou non, etc.
-
-Chaque case de la grille peut soit cacher une mine, soit être vide. Le but du jeu est de découvrir toutes les cases libres sans faire exploser les mines.
-
-le but est simple, déplacer vous avec les coordonées x et y respectivent à la grille
-
-bon courage !!
